@@ -2,7 +2,7 @@
 
 ## Contacts
 
-**LinkedIn:** <https://www.linkedin.com/in/kasia-grze%C5%9Bkowiak-931a70123/>
+**LinkedIn:** <https://www.linkedin.com/in/katarzyna-grze%C5%9Bkowiak-931a70123/>
 
 **GiitHub:** <https://github.com/KatarzynaGrzeskowiak>
 
