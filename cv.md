@@ -22,8 +22,11 @@ Now I'm just a newbie in programming and I want to learn Front-End technologies.
 
 ## Code Example
 
-In progress...
-
+```
+function sum(a,b){
+    return a + b
+}
+```
 ## Experience
 
 I'm working on it
