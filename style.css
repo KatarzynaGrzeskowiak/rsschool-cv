@@ -7,6 +7,7 @@ body{
 }
 
 h2{
+  margin-left: 20px;
   font-size: 25px;
   text-decoration: underline ;
 }
@@ -25,7 +26,7 @@ h2{
   flex-direction: column;
   align-items: center;
   float:left;
-  width:30%;
+  width:31%;
   background-color: peachpuff;
 }
 
@@ -67,7 +68,7 @@ footer{
 
 .main_container{
   float:right;
-  width:70%;
+  width:69%;
   background-color: aquamarine;
 }
 
@@ -77,6 +78,7 @@ footer{
 }
 
 .nav_icon{
+  margin-right: 20px;
   width: 50px;
   height:50px;
 }
@@ -94,15 +96,16 @@ footer{
   display:flex;
   flex-direction: column;
   margin:auto;
-  align-items: center;
 }
 
 .nav_container ul li a{
+  display: flex;
   text-decoration: none;
   font-size: 25px;
   font-weight: 500;
   color: #000;
   line-height: 75px;
+  align-items: center;
 }
 
 .main_section{
