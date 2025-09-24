@@ -27,7 +27,9 @@ h2{
   align-items: center;
   float:left;
   width:31%;
-  background-color: peachpuff;
+  /* background-color: peachpuff; */
+  background: #F32C81C2;
+  background: linear-gradient(0deg,rgba(243, 44, 129, 1) 0%, rgba(255, 218, 185, 1) 61%);
 }
 
 .header_photo{
@@ -45,7 +47,7 @@ footer{
 
 .footer_container{
   display:flex;
-  background-color: aqua;
+  background-color: #ff006d;
  /* position: absolute;
   bottom: 0;*/
   min-width: 100%;
@@ -69,7 +71,9 @@ footer{
 .main_container{
   float:right;
   width:69%;
-  background-color: aquamarine;
+  background: #F32C81C2;
+background: linear-gradient(0deg,rgba(243, 44, 129, 1) 0%, rgba(255, 218, 185, 1) 50%, rgba(255, 247, 247, 1) 100%);
+
 }
 
 .nav_container{
